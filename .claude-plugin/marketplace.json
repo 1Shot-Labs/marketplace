@@ -12,8 +12,8 @@
     {
       "name": "squadron-comms",
       "source": {
-        "source": "github",
-        "repo": "1Shot-Labs/squadron-comms-plugin"
+        "source": "url",
+        "url": "https://github.com/1Shot-Labs/squadron-comms-plugin.git"
       },
       "description": "Voice communication system with ElevenLabs TTS for multi-agent coordination. Spawn colored squadron agents (Red, Gold, Blue, Green) that broadcast voice updates while working on tasks.",
       "version": "1.0.0",
