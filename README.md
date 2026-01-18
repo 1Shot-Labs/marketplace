@@ -1,6 +1,6 @@
-# 1 Shot Labs Plugin Marketplace
+# 1Shot Labs Plugin Marketplace
 
-Official plugin marketplace for 1 Shot Labs Claude Code plugins.
+Official plugin marketplace for 1Shot Labs Claude Code plugins.
 
 [![Plugins](https://img.shields.io/badge/plugins-1-blue.svg)](https://github.com/1Shot-Labs/marketplace)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -112,4 +112,4 @@ MIT License - see individual plugin repositories for their licenses.
 
 ---
 
-Made with ❤️ by [1 Shot Labs](https://1shotlabs.com)
+Made with ❤️ by [1Shot Labs](https://1shotlabs.com)
