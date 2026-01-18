@@ -64,7 +64,7 @@ Voice communication system with ElevenLabs TTS for multi-agent coordination.
 /plugin uninstall squadron-comms
 
 # Remove marketplace
-/plugin marketplace remove marketplace
+/plugin marketplace remove 1shot
 ```
 
 ## Plugin Submission
