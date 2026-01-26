@@ -2,7 +2,7 @@
 
 Official plugin marketplace for 1Shot Labs Claude Code plugins.
 
-[![Plugins](https://img.shields.io/badge/plugins-1-blue.svg)](https://github.com/1Shot-Labs/marketplace)
+[![Plugins](https://img.shields.io/badge/plugins-3-blue.svg)](https://github.com/1Shot-Labs/marketplace)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Quick Start
@@ -35,6 +35,56 @@ Voice communication system with ElevenLabs TTS for multi-agent coordination.
 
 **Documentation:** [README](https://github.com/1Shot-Labs/squadron-comms-plugin#readme)
 
+---
+
+### Elite Skills Library
+
+Premium Claude Code skills library with AI-powered skill distribution.
+
+**Install:**
+```bash
+/plugin install elite-skills
+```
+
+**Features:**
+- 📚 270+ professional-grade skills
+- 🎯 AI-powered skill distribution
+- 🔐 Subscription-based access
+- 🎓 Domain expertise transformation
+- 🚀 Continuous skill updates
+- 💼 Professional workflow automation
+
+**Repository:** [1Shot-Labs/elite-skills-library-plugin](https://github.com/1Shot-Labs/elite-skills-library-plugin)
+
+**Homepage:** [skills.1shotlabs.com](https://skills.1shotlabs.com)
+
+---
+
+### Chief of Staff
+
+Comprehensive personal AI assistant plugin for Claude Code - replicates all Clawdbot capabilities.
+
+**Install:**
+```bash
+/plugin install chief-of-staff
+```
+
+**Features:**
+- 💬 Multi-channel communication (Slack, Discord, Telegram)
+- 🔄 Lobster-inspired workflow engine
+- 🧠 Persistent memory with vector database
+- 🌐 Browser automation via Chrome DevTools Protocol
+- ⏰ Scheduling & automation (cron, webhooks, heartbeat)
+- 🎨 Visual canvas system with A2UI
+- 🤖 Multi-agent coordination
+- 🔒 Security & sandboxing
+- 📱 Device integration (camera, screen, notifications)
+- 🎯 87% Clawdbot feature parity
+
+**Repository:** [1Shot-Labs/chief-of-staff](https://github.com/1Shot-Labs/chief-of-staff)
+
+**Documentation:** [README](https://github.com/1Shot-Labs/chief-of-staff#readme) | [Getting Started](https://github.com/1Shot-Labs/chief-of-staff/blob/master/docs/getting-started.md)
+
 ## Usage
 
 ### Adding the Marketplace
@@ -47,8 +97,10 @@ Voice communication system with ElevenLabs TTS for multi-agent coordination.
 ### Installing Plugins
 
 ```bash
-# Install squadron-comms
+# Install any plugin from the marketplace
 /plugin install squadron-comms
+/plugin install elite-skills
+/plugin install chief-of-staff
 
 # List installed plugins
 /plugin list
