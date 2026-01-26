@@ -62,6 +62,38 @@
       ],
       "category": "productivity",
       "tags": ["official", "subscription", "premium"]
+    },
+    {
+      "name": "chief-of-staff",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/1Shot-Labs/chief-of-staff.git"
+      },
+      "description": "Comprehensive personal AI assistant plugin for Claude Code. Replicates all Clawdbot capabilities with multi-channel communication, workflows, persistent memory, browser automation, scheduling, and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "1Shot Labs",
+        "email": "charles@1shotlabs.com"
+      },
+      "homepage": "https://github.com/1Shot-Labs/chief-of-staff",
+      "repository": "https://github.com/1Shot-Labs/chief-of-staff",
+      "license": "MIT",
+      "keywords": [
+        "ai-assistant",
+        "clawdbot",
+        "automation",
+        "workflows",
+        "memory",
+        "browser-automation",
+        "messaging",
+        "scheduling",
+        "multi-agent",
+        "slack",
+        "discord",
+        "telegram"
+      ],
+      "category": "productivity",
+      "tags": ["official", "featured", "comprehensive"]
     }
   ]
 }
